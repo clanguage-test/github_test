@@ -13,6 +13,10 @@ int tutee_03() {
 	printf("2024xxxxxx 송지윤\n");
 }
 
+int tutee_04() {
+	printf("2024111241 유연서\n");
+}
+
 
 
 int main() {
@@ -21,6 +25,6 @@ int main() {
 	tutee_01();// 김지호
 	//tutee_02();//김혜민
 	tutee_03();//송지윤
-	//tutee_04();//유연서
+	tutee_04();//유연서
 
 }
