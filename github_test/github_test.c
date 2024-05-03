@@ -1,23 +1,26 @@
 #include <stdio.h>
 
 int tutor_01() {
-	printf("2020111349 ÀÌÀº°æ\n");
+	printf("2020111349 ì´ì€ê²½\n");
 }
 
 int tutee_00() {
-	printf("2024xxxxxx ±è½´´Ï\n");
+	printf("2024xxxxxx ê¹€ìŠˆë‹ˆ\n");
 }
 
-int tutee_01() {
-	printf("2024111224 ±èÁöÈ£\n");
+
+int tutee_03() {
+	printf("2024xxxxxx ì†¡ì§€ìœ¤\n");
 }
+
+
 
 int main() {
-	tutor_01(); //ÀÌÀº°æ
-	tutee_00();//±è½´´Ï
-	tutee_01();// ±èÁöÈ£
-	//tutee_02();//±èÇı¹Î
-	//tutee_03();//¼ÛÁöÀ±
-	//tutee_04();//À¯¿¬¼­
+	tutor_01(); //ì´ì€ê²½
+	tutee_00();//ê¹€ìŠˆë‹ˆ
+	tutee_01();// ê¹€ì§€í˜¸
+	//tutee_02();//ê¹€í˜œë¯¼
+	tutee_03();//ì†¡ì§€ìœ¤
+	//tutee_04();//ìœ ì—°ì„œ
 
 }
